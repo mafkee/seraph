@@ -1,6 +1,7 @@
 <img src="images/seraphbanner.jpg">
   <p align="center">
     seraph; an open source game website that hosts 350+ games with customisable settings, full rehosting support and a beautiful design
+    Kudos to the creators of the original seraph, I just cloned this to get those THREE HUNDRED GAMES!! - wafkee
     <br/>
     <a href="https://seraph.reveriestudios.online/">view demo</a>
     ·
